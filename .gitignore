@@ -1,0 +1,9 @@
+*/lecture-contents
+*/my-notes
+*/.ipynb_checkpoints
+*/__pycache__
+
+*.pdf
+*.ini
+
+4 - Convolutional Neural Networks/datasets/drive_ai_model_data/variables/variables.data-00000-of-00001
