@@ -52,5 +52,3 @@ There's no correlations between files, so you're free to check them however you 
 3. **Residual_Networks**: Building a CONV2D neural network.
 4. **MobileNetV2**: Using Mobile Net V2 to train an alpaca detector.
 5. **Car_Detection**: Using YOLO to create a car (amongst other objects) detection model 
-    Ps.: You must download the model to make it work, as it's too big for github, you can find it at: https://1drv.ms/u/s!AqkiKpLGvETbju9NQEHh2t7z6fLdYw?e=hQaZGU
-         Put it in the 'datasets' (so it's 'datasets/drive_ai_model_data') folder and you should be good.
