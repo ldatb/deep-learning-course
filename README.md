@@ -51,4 +51,5 @@ There's no correlations between files, so you're free to check them however you 
 2. **CNN_Application**: Creating a Convolutional Neural Network with TensorFlow and Keras, using it with real cases (smile and numbers on sign language detector).
 3. **Residual_Networks**: Building a CONV2D neural network.
 4. **MobileNetV2**: Using Mobile Net V2 to train an alpaca detector.
-5. **Car_Detection**: Using YOLO to create a car (amongst other objects) detection model 
+5. **Car_Detection**: Using YOLO to create a car (amongst other objects) detection model
+6. **Art_Generation**: Using VGG-19 to generate art from images.
