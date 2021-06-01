@@ -42,7 +42,7 @@ This course doesn't have any practical exercises.
 
 ## 4. Convolutional Neural Networks
 In the fourth course of the Deep Learning Specialization, you will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
-Learn mor at: https://www.coursera.org/learn/convolutional-neural-networks
+Learn more at: https://www.coursera.org/learn/convolutional-neural-networks
 
 ### 4.1 Journey
 There's no correlations between files, so you're free to check them however you like, however, I recommend you to see it in this order, so you can see my progress.
@@ -53,3 +53,10 @@ There's no correlations between files, so you're free to check them however you 
 4. **MobileNetV2**: Using Mobile Net V2 to train an alpaca detector.
 5. **Car_Detection**: Using YOLO to create a car (amongst other objects) detection model
 6. **Art_Generation**: Using VGG-19 to generate art from images.
+
+## 5. Sequence Models
+In the fifth and last course of the Deep Learning Specialization, you will become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
+Learn more at: https://www.coursera.org/learn/nlp-sequence-models
+
+### 5.1 Journey
+There's no correlations between files, so you're free to check them however you like, however, I recommend you to see it in this order, so you can see my progress.
