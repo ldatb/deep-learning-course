@@ -60,3 +60,5 @@ Learn more at: https://www.coursera.org/learn/nlp-sequence-models
 
 ### 5.1 Journey
 There's no correlations between files, so you're free to check them however you like, however, I recommend you to see it in this order, so you can see my progress.
+
+1. **Dinossaur_Names**: Generating Dinossaur names using Recurrent Neural Networks.
