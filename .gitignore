@@ -6,3 +6,5 @@
 *.pdf
 *.ini
 *.pyc
+
+/5 - Sequence Models/images/notebook_utils
